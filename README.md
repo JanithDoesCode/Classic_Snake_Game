@@ -1,4 +1,4 @@
-![1]([https://github.com/user-attachments/assets/fe6b3880-760c-4d66-85bd-5d8dc669b08e](https://raw.githubusercontent.com/JanithDoesCode/Multilingual-Sentiment-Analysis-for-Sinhala-and-English/main/Screenshots/1.png)
+![1](https://github.com/user-attachments/assets/fe6b3880-760c-4d66-85bd-5d8dc669b08e)
 ![2](https://github.com/user-attachments/assets/463693c1-f269-45c1-9488-6d8dda970afc)
 
 # Snake Game in Python
